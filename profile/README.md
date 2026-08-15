@@ -1,4 +1,7 @@
-## Hi there 👋
+<div align="center">
+<img src="logo_and_text.png" width="300" alt="Chameleon Auth Logo">
+</div>
+
 
 <!--
 
